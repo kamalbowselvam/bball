@@ -1,0 +1,8 @@
+.idea
+.ipynb_checkpoints
+*.png
+*.jpg
+*.pdf
+*.mp4
+__pycache__/*
+*.ipynb
